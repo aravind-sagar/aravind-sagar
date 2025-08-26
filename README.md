@@ -1,19 +1,30 @@
 <h1 align="center">Hi 👋, I'm Aravind</h1>
-<h3 align="center">A developer from Goa, India working on things I find cool.</h3>
+<h3 align="center">Junior Developer @ <a href="https://www.creativecapsule.com/" target="_blank">Creative Capsule</a></h3>
 
-- 🔭 I’m currently working on **learning ML**
+<p align="center">⚡ Full-stack, usually living in the backend (NestJS + TypeScript)<br/>
+🌱 Currently wrestling with the <i>billions</i> of AWS tools & getting better at testing things before they break</p>
 
-- 👯 I'd like to collaborate on **interesting projects**
+<hr/>
 
-- 📝 I sometimes write articles on [https://aravindddd.blogspot.com/](https://aravindddd.blogspot.com/)
+<h3>What I work with</h3>
+<ul>
+  <li><b>Languages & Frameworks:</b> TypeScript, JavaScript, NestJS, NuxtJS</li>
+  <li><b>Cloud & Infra:</b> AWS (slowly making sense of it), Docker</li>
+  <li><b>Other stuff I care about:</b> writing clean unit tests, building small optimizations for my team</li>
+</ul>
 
-- 📫 How to reach me **aravindsagar.mail@gmail.com**
+<hr/>
 
-- ⚡ Fun fact **I may or may not be from the future.**
+<h3>Side quests</h3>
+<ul>
+  <li>Automating boring dev stuff (auto Node version setup, XML viewer, etc.)</li>
+  <li>Freelance tinkering/optimization projects that make life easier</li>
+  <li>Writing the occasional blog post on <a href="https://aravindddd.blogspot.com/" target="_blank">my corner of the internet</a></li>
+</ul>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/aravindzemon" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/5/53/X_logo_2023_original.svg" alt="aravindzemon" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/aravindsagar/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/aravindsagar/" height="30" width="40" /></a>
-</p>
+<hr/>
 
+<h3>Connect</h3>
+<p>📫 <b>Email:</b> <a href="mailto:aravindsagar.mail@gmail.com">aravindsagar.mail@gmail.com</a><br/>
+🔗 <a href="https://www.linkedin.com/in/aravindsagar/" target="_blank">LinkedIn</a><br/>
+🐦 Maybe from the future, maybe not.</p>
